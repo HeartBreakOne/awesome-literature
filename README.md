@@ -2,11 +2,12 @@
 A list of the most awesome works of world literature.
 
 ## Basic Structure
-The basic structure divide the world works by language, and after by region or country.
+The basic structure divide the world works by language or language family, and after by region or country, optionaly you can place some specificaton about that recomendation list.
 
-`<language>/<country-region>/literature.md`
+`<language>/<country-region>/<some-spec>-literature.md`
 
 ---------------------
+####_Author's notes_
 
 I think it's a good way of organize the lists, but any suggestions would be great!
 
@@ -14,4 +15,4 @@ Almost every *awesome* list is obviously about technology stuff, but i've found 
 
 I'll need a lot of help and time to build this, but I've started with the brazilian literature.
 
-As a non native english speaker, sorry about typos and grammar, PR as your wish.
+As a non-native english speaker, sorry about typos and grammar, PR as your wish.
