@@ -2,7 +2,7 @@
 A list of the most awesome works of world literature.
 
 ## Basic Structure
-The basic structure divide the world works by language or language family, and after by region or country, optionaly you can place some specificaton about that recomendation list.
+The basic structure divide the world works by language or language family, and after by region or country, optionaly you can place some specification about that recomendation list on the `.md` file name.
 
 `<language>/<country-region>/<some-spec>-literature.md`
 
